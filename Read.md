@@ -11,3 +11,6 @@ git push  ---remote repository
 
 Working dirrectory ----------stagging area-----local repositoy ------remote repository
 
+
+git remote -v
+
