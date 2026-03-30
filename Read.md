@@ -14,3 +14,5 @@ Working dirrectory ----------stagging area-----local repositoy ------remote repo
 
 git remote -v
 
+git pull origin main --allow-unrelated-histories   ---- unable to pull the readme file
+
